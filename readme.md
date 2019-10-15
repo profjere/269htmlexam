@@ -2,6 +2,7 @@
 <h2>COMM 269: Web Design</h2>
 
 <b>Type the answers to question #1-10 on a Word Document.  #13 requires you to add a URL to the same Word document.</b>
+You can download all of these files at once by choosing download in the upper right corner.
 
 1)	What is the function of the <title> tag?
 
@@ -23,9 +24,9 @@
 
 10)	On the server, if you create an images folder in the same folder as an index.html file and place an image (bird.jpg) inside the images folder, what is the html code (with no CSS needed) to make the image appear on index.html and also make sure that it is accessible for individuals with vision problems.
 
-11)	Identify five errors in the HTML marked: debugme.html.  Assume all the text in black is correct.  Fix the errors right in the code.
+11)	Identify five errors in the HTML marked: debugme.html (see files above).  Assume all the text in black is correct.  Fix the errors right in the code.
 
-12)	Please comment in the 8 blank comment lines on comment.css to explain how the CSS page functions.
+12)	Please comment in the 8 blank comment lines on comment.css (see files above) to explain how the CSS page functions.
 
 13)	Create the page seen with four different screen widths in the four png (specifically: example1, example2, example3, example4).  Click on the download button after opening each image to see it in its entirety.  The four images represent one page at different sizes so just create one HTML and one CSS page.  The images are available in the above Github.  They do not need to be transformed in any way in Photoshop.  Place the finished page in your webserver and place the link on the sheet in which you answer questions #1-10.  
 
