@@ -1,5 +1,5 @@
-<h1>HTML/CSS Exam<h1>
-COMM 269: Web Design
+<h1>HTML/CSS Exam</h1>
+<h2>COMM 269: Web Design</h2>
 
 1)	What is the function of the <title> tag?
 
