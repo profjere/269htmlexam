@@ -11,7 +11,7 @@
 
 5)	In designing a layout, why would you choose Grid Layout vs. Flexbox?
 
-6)	Consider: <b>background-size: contain</b> and <b>background-size: cover</b>. Explain in writing or through writing and a drawing, how these differ.
+6)	Consider: <b>background-size: contain</b> and <b>background-size: cover</b>. Explain how these differ.
 
 7)	What two lines of code placed on the CSS page are necessary to make all h1 tags on the attached HTML page display with the font: Roboto Slab (from Google Fonts.)  Assume there are no additional tags overriding the general rule for h1.
 
@@ -25,7 +25,7 @@
 
 12)	Please comment in the 8 blank comment lines on comment.css to explain how the CSS page functions.
 
-13)	Create the page seen with four different screen widths in the four png (soecifically: example1, example2, example3, example4).  This is just one page (so just create one HTML and one CSS page).  The images are available in the above Github.  They do not need to be transformed in any way in Photoshop.  Place the finished page in your webserver and place the link on the sheet in which you answer questions #1-10.  
+13)	Create the page seen with four different screen widths in the four png (specifically: example1, example2, example3, example4).  This is just one page (so just create one HTML and one CSS page).  The images are available in the above Github.  They do not need to be transformed in any way in Photoshop.  Place the finished page in your webserver and place the link on the sheet in which you answer questions #1-10.  
 
 
 •	Create a zip file with three files:
