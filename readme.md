@@ -1,4 +1,4 @@
-HTML/CSS Exam
+<h1>HTML/CSS Exam<h1>
 COMM 269: Web Design
 
 1)	What is the function of the <title> tag?
@@ -13,7 +13,7 @@ COMM 269: Web Design
 
 6)	Consider: background-size: contain and background-size: cover. Explain in writing or through writing and a drawing, how these differ.
 
-7)	What two lines of code placed on the CSS page are necessary to make all <h1> tags on the attached HTML page display with the font: Roboto Slab (from Google Fonts.)  Assume there are no additional tags overriding the general rule for h1.
+7)	What two lines of code placed on the CSS page are necessary to make all h1 tags on the attached HTML page display with the font: Roboto Slab (from Google Fonts.)  Assume there are no additional tags overriding the general rule for h1.
 
 8)	What is the HTML to create a link to the St. John Fisher homepage with the words: St. John Fisher College?  
 
