@@ -1,6 +1,8 @@
 <h1>HTML/CSS Exam</h1>
 <h2>COMM 269: Web Design</h2>
 
+<b>Type the answers to question #1-10 on a Word Document.  #13 requires you to add a URL to the same Word document.</b>
+
 1)	What is the function of the <title> tag?
 
 2)	What are two advantages in keeping CSS rules in a separate file?
@@ -19,7 +21,7 @@
 
 9)	Explain how to position a line of text at exactly 15px from the left and 25 pixels from the bottom of a specific div.  What CSS code is needed and explain how it works.
 
-10)	If you create an images folder next to an index.html file and place an image (bird.jpg) inside the folder, what is the html code (with no CSS needed) to make the image appear on index.html so that it is also accessible for individuals with vision problems.
+10)	On the server, if you create an images folder in the same folder as an index.html file and place an image (bird.jpg) inside the images folder, what is the html code (with no CSS needed) to make the image appear on index.html and also make sure that it is accessible for individuals with vision problems.
 
 11)	Identify five errors in the HTML marked: debugme.html.  Assume all the text in black is correct.  Fix the errors right in the code.
 
@@ -35,3 +37,5 @@ a)	the Word document in which you answer the questions #1-#10 and provide the li
 b)	The fixed debugme.html 
 
 c)	The fully commented comment.css
+
+Submit on Blackboard under "Submit Test Here".
