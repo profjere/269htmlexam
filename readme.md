@@ -7,11 +7,11 @@
 
 3)	What color is #9365A8?
 
-4)	Why might you choose to use <main> rather than <div id=”main”>? 
+4)	Why might you choose to use <b>main</b> rather than <b>div id=”main”</b>? 
 
 5)	In designing a layout, why would you choose Grid Layout vs. Flexbox?
 
-6)	Consider: background-size: contain and background-size: cover. Explain in writing or through writing and a drawing, how these differ.
+6)	Consider: <b>background-size: contain</b> and <b>background-size: cover</b>. Explain in writing or through writing and a drawing, how these differ.
 
 7)	What two lines of code placed on the CSS page are necessary to make all h1 tags on the attached HTML page display with the font: Roboto Slab (from Google Fonts.)  Assume there are no additional tags overriding the general rule for h1.
 
