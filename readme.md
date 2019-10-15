@@ -28,7 +28,7 @@ You can download all of these files at once by choosing <b>download</b> in the u
 
 12: 16 points)	Please comment in the 8 blank comment lines on comment.css (see files above) to explain how the CSS page functions.
 
-13: 34 points)	Create the page seen with four different screen widths in the four png (specifically: example1, example2, example3, example4).  Click on the download button after opening each image to see it in its entirety.  The four images represent one page at different sizes so just create one HTML and one CSS page.  The images are available in the above Github.  They do not need to be transformed in any way in Photoshop.  Place the finished page in your webserver and place the link on the sheet in which you answer questions #1-10.  
+13: 34 points)	Create the page seen with four different screen widths in the four png (specifically: example1, example2, example3, example4).  Click on the download button after opening each image to see it in its entirety.  The four images represent one page at different sizes so just create one HTML and one CSS page.  <b>NOTE: the only rollover effect is the appearance of an underline under the word in the nav bar.</b>  The images needed are available in the above Github.  They do not need to be transformed in any way in Photoshop.  Place the finished page in your webserver and place the link on the sheet in which you answer questions #1-10.  
 
 
 •	Create a zip file with three files:
