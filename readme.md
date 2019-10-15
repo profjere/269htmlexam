@@ -2,7 +2,7 @@
 <h2>COMM 269: Web Design</h2>
 
 <b>Type the answers to question #1-10 on a Word Document.  #13 requires you to add a URL to the same Word document.</b>
-You can download all of these files at once by choosing download in the upper right corner.
+You can download all of these files at once by choosing <b>download</b> in the upper right corner.
 
 1)	What is the function of the <title> tag?
 
@@ -20,7 +20,7 @@ You can download all of these files at once by choosing download in the upper ri
 
 8)	What is the HTML to create a link to the St. John Fisher homepage with the words: St. John Fisher College?  
 
-9)	Explain how to position a line of text at exactly 15px from the left and 25 pixels from the bottom of a specific div.  What CSS code is needed and explain how it works.
+9)	Explain how to position a line of text at exactly 15 pixels from the left and 25 pixels from the bottom of a specific div.  What CSS code is needed and explain how it works.
 
 10)	On the server, if you create an images folder in the same folder as an index.html file and place an image (bird.jpg) inside the images folder, what is the html code (with no CSS needed) to make the image appear on index.html and also make sure that it is accessible for individuals with vision problems.
 
