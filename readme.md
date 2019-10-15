@@ -17,7 +17,7 @@
 
 8)	What is the HTML to create a link to the St. John Fisher homepage with the words: St. John Fisher College?  
 
-9)	Explain how to position a line of text at exactly 15px from the left and 25 pixels from the bottom of a specific div.  What CSS code is needed, and explain how it works.
+9)	Explain how to position a line of text at exactly 15px from the left and 25 pixels from the bottom of a specific div.  What CSS code is needed and explain how it works.
 
 10)	If you create an images folder next to an index.html file and place an image (bird.jpg) inside the folder, what is the html code (with no CSS needed) to make the image appear on index.html so that it is also accessible for individuals with vision problems.
 
@@ -25,7 +25,7 @@
 
 12)	Please comment in the 8 blank comment lines on comment.css to explain how the CSS page functions.
 
-13)	Create the page seen with four different screen widths in the four png (example1, example2, example3, example4).  This is just one page (so just create one HTML and one CSS page).  The images are available in the above Github.  They do not need to be transformed in any way in Photoshop.  Place the finished page in your webserver and place the link on the sheet in which you answer questions #1-10.  
+13)	Create the page seen with four different screen widths in the four png (soecifically: example1, example2, example3, example4).  This is just one page (so just create one HTML and one CSS page).  The images are available in the above Github.  They do not need to be transformed in any way in Photoshop.  Place the finished page in your webserver and place the link on the sheet in which you answer questions #1-10.  
 
 
 •	Create a zip file with three files:
